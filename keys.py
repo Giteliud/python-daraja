@@ -1,0 +1,8 @@
+
+
+business_shortcode = '174379'
+password = 'W9rG/oh0yMt1xjh13dgvZhIXP6zoSevE0fpf9aTvy+1vHwbzOl37vh8pQEea/xYZmsjYGmOyFQuwjGNbn/CbE/fAKb1zMv/7648AK2XeKxgcUcXX+8hQgW+MjYBt4WO7ty11OMpeekd64hpNYgnp9Thy5tW1i0c151YZfhPaYxEkgZskOCCOawfF62vuWqWOIAn4s1Xcbzzc7a6vpg7UFvYho36w7YFCeQtae/khBJBAAedy1Yd9gBpcLd4ZuVV7Z11FSvjtDjVhF35QOAzLAXMxYZ9MvEDUH6INmjFSNluCHwpF26dViV10RL9+Z1Y3Nmdvdi2Q7yL8HQ/iaamhsw=='
+phone_number = '254791019770'
+lipa_na_mpesa_passkey = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919'
+consumer_key = 'v1ZTkM6RZ8TA5t3mnzXcBLBLNM3EJHzA'
+consumer_secret = 'YBG3V02X9KZUANvJ'
